@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal_Hampalle
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack java development
+- 🌱 I’m currently learning full stack java development and learning programming language c/c++
 - 📫 How to reach me 
 - Email id : vishalmhampalle@gmail.com
 - Linked in : https://www.linkedin.com/in/vishal-hampalle/
